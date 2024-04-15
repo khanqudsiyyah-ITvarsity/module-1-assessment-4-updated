@@ -1,0 +1,21 @@
+#menu-bar a{
+   font-family: helvetica,sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+table{
+   font-family: helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695A6;
+}
+
+
+th{
+    font-weight: 800;
+    background-color: #2695A6;
+    color: #ffffff;
+}
